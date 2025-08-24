@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>addproduct.qml</file>
+        <file>adminpage.qml</file>
+        <file>userpage.qml</file>
+        <file>selectpage.qml</file>
+        <file>settingspage.qml</file>
+        <file>edit.qml</file>
+        <file>history.qml</file>
+        <file>ItemHistory.qml</file>
+    </qresource>
+</RCC>

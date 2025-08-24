@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bars-solid.svg</file>
+        <file>images/download-solid.svg</file>
+        <file>images/file-pdf-solid.svg</file>
+        <file>images/house-solid.svg</file>
+        <file>images/pen-solid.svg</file>
+        <file>images/trash-solid.svg</file>
+        <file>images/user-pen-solid.svg</file>
+        <file>images/user-solid.svg</file>
+        <file>images/text-document-add-icon.svg</file>
+        <file>images/project-icon.svg</file>
+        <file>images/check-mark-box-icon.svg</file>
+        <file>images/setting-icon.svg</file>
+        <file>images/angle-left-icon.svg</file>
+        <file>images/close-icon.svg</file>
+        <file>images/line-angle-left-icon.svg</file>
+        <file>../PDF2/image/p1.jpeg</file>
+        <file>images/p1.jpeg</file>
+    </qresource>
+</RCC>
